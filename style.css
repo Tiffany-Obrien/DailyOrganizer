@@ -69,3 +69,11 @@ body {
     font-size: 20px;
     transition: all .3s ease-in-out;
   }
+
+button:focus {
+  outline: none;
+}
+
+input:focus {
+  outline: none;
+}
